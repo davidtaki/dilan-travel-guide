@@ -14,7 +14,6 @@ The business strategy is simple:
 3. They subscribe to the newsletter.
 4. They purchase the info products.
 
-![image.png](attachment:a3812a4c-75d7-432b-816d-8f12be7d057e:image.png)
 
 Dilan’s travel blog is available in 8 (and only 8) different countries.
 
@@ -34,9 +33,9 @@ That’s where he needs your help!
 
 ---
 
-You will get access to a brand new data set. You can download it to your data server – using `wget` – from here:
+You will get access to a brand new data set. You can download it to your data server – using from here:
 
-`wget 46.101.230.157/testtask/dilans_data.csv`
+
 
 In this data set, you will find the raw user activity data from Dilan’s blog between 1 **January 2018 and 31 March 2018.** It’s a log with ~600.000 rows. The format is similar to what you had at Send-A-Tree but there are important differences.
 
