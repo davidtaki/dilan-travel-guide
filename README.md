@@ -33,10 +33,6 @@ That’s where he needs your help!
 
 ---
 
-You will get access to a brand new data set. You can download it to your data server – using from here:
-
-
-
 In this data set, you will find the raw user activity data from Dilan’s blog between 1 **January 2018 and 31 March 2018.** It’s a log with ~600.000 rows. The format is similar to what you had at Send-A-Tree but there are important differences.
 
 ![](https://course.data36.com/wp-content/uploads/2023/09/image-49.png)
